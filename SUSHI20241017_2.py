@@ -1,3 +1,7 @@
+# pip install keyboard
+# python3
+#Windows PowerShell
+
 from sura import sura
 from imedoko import imadoko
 from kunhebo import kunhebo
